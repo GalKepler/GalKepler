@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gal Ben-Zvi</h1>
 <h3 align="center">Neuroscience PhD student at Tel-Aviv University</h3>
 
-- 🔭 I’m currently working on [DWIPrep](https://github.com/GalBenZvi/dwiprep) software package, and my PhD project, called The Connectome Plasticity:
+<div align="center">- 🔭 I’m currently working on [DWIPrep](https://github.com/GalBenZvi/dwiprep) software package, and my PhD project, called The Connectome Plasticity:
 
 <div align="center"><img
 src = TheConnectomePlasticity.png
