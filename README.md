@@ -3,7 +3,7 @@
 
 <div align="center">
 
-- 🔭 I’m currently working on [DWIPrep](https://github.com/GalBenZvi/dwiprep) software package, and my PhD project, called The Connectome Plasticity:
+- 🔭 I’m currently working on [dMRIPrep](https://github.com/GalBenZvi/dmriprep) software package, and my PhD project, called The Connectome Plasticity:
 
 <div align="center"><img
 src = TheConnectomePlasticity.png
@@ -14,7 +14,7 @@ height = 400
 
 - 💬 Ask me about **Diffusion and functional MRI preprocessing, Neuroplasticity, connectivity (structural & functional)**
 
-- 📫 How to reach me **hershkovitz1@mail.tau.ac.il**
+- 📫 How to reach me **benzvigal@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/gal-ben-zvi](www.linkedin.com/in/gal-ben-zvi)
 
@@ -23,8 +23,9 @@ height = 400
 [![GitHub](icons/github.png)](https://github.com/GalBenZvi)
 [![LinkedIn](icons/linkedin.png)](https://linkedin.com/in/gal-ben-zvi)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/galbenzvi93)
+[![Twitter](icons/twitter.png)](https://twitter.com/GalBenZvi)
 <a href="https://fb.com/galbenzvi1" target="_blank"><img src="icons/facebook.png" width="32" height="32" /></a>
-<a href="mailto:hershkovitz1@mail.tau.ac.il" target="_blank"><img src="icons/gmail.png" width="32" height="32" /></a>
+<a href="mailto:benzvigal@gmail.com" target="_blank"><img src="icons/gmail.png" width="32" height="32" /></a>
 
 <h3 >Languages and Tools:</h3>
 
