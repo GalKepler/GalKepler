@@ -1,4 +1,4 @@
-<h1 align="center">Gal Ben-Zvi</h1>
+<h1 align="center">Gal Kepler</h1>
 <h3 align="center">Neuroscience PhD student at Tel-Aviv University</h3>
 
 <div align="center">
@@ -16,14 +16,14 @@ height = 400
 
 - 📫 How to reach me **benzvigal@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/gal-ben-zvi](www.linkedin.com/in/gal-ben-zvi)
+- 📄 Know about my experiences [www.linkedin.com/in/galkepler](www.linkedin.com/in/galkepler)
 
 <h3>Connect with me:</h3>
 
-[![GitHub](icons/github.png)](https://github.com/GalBenZvi)
-[![LinkedIn](icons/linkedin.png)](https://linkedin.com/in/gal-ben-zvi)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/galbenzvi93)
-[![Twitter](icons/twitter.png)](https://twitter.com/GalBenZvi)
+[![GitHub](icons/github.png)](https://github.com/galkepler)
+[![LinkedIn](icons/linkedin.png)](https://linkedin.com/in/galkepler)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/galkepler)
+[![Twitter](icons/twitter.png)](https://twitter.com/galkepler)
 <a href="https://fb.com/galbenzvi1" target="_blank"><img src="icons/facebook.png" width="32" height="32" /></a>
 <a href="mailto:benzvigal@gmail.com" target="_blank"><img src="icons/gmail.png" width="32" height="32" /></a>
 
