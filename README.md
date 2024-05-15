@@ -1,7 +1,7 @@
 <h1 align="center">Gal Kepler</h1>
 <h3 align="center">Computational Neuroscience PhD student at Tel-Aviv University</h3>
 
-- 💬 Ask me about **Diffusion and functional MRI preprocessing, Neuroplasticity, connectivity (structural & functional)**
+- 💬 Ask me about **Statistics, Diffusion and functional MRI preprocessing, Neuroplasticity, connectivity (structural & functional)**
 
 - 📫 How to reach me **galkepler@gmail.com**
 
