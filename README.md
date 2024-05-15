@@ -1,12 +1,8 @@
 <h1 align="center">Gal Kepler</h1>
-<h3 align="center">Neuroscience PhD student at Tel-Aviv University</h3>
-
-<div align="center">
-
-- 🔭 I’m currently working on [dMRIPrep](https://github.com/GalBenZvi/dmriprep) software package, and my PhD project, called The Connectome Plasticity:
+<h3 align="center">Computational Neuroscience PhD student at Tel-Aviv University</h3>
 
 <div align="center"><img
-src = TheConnectomePlasticity.png
+src = https://files.oaiusercontent.com/file-jkkKcmPTCASBWXrCYG8WFBh1?se=2024-05-15T07%3A09%3A54Z&sp=r&sv=2023-11-03&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D29d5391d-6218-42ab-a16a-c84406aa59f1.webp&sig=Z2jJfbkbPZ66qaNPU61Mdt3faryFjlzAh95%2BNP80R2k%3D
 alt = "TheConnectomePlasticity"
 weight = 200
 height = 400
