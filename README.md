@@ -10,14 +10,12 @@
 
 <h3 align="center">Connect with me:</h3>
 
-<div align="center">
-[![GitHub](icons/github.png)](https://github.com/galkepler)
+<div align="center">[![GitHub](icons/github.png)](https://github.com/galkepler)
 [![LinkedIn](icons/linkedin.png)](https://linkedin.com/in/galkepler)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/galkepler)
 [![Twitter](icons/twitter.png)](https://twitter.com/galkepler)
 <a href="https://fb.com/galkepler" target="_blank"><img src="icons/facebook.png" width="32" height="32" /></a>
-<a href="mailto:galkepler@gmail.com" target="_blank"><img src="icons/gmail.png" width="32" height="32" /></a>
- </p>
+<a href="mailto:galkepler@gmail.com" target="_blank"><img src="icons/gmail.png" width="32" height="32" /></a></p>
  
 <h3 align="center">Languages and Tools:</h3>
 
