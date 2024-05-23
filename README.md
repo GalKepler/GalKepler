@@ -10,10 +10,15 @@
 
 <h3 align="center">Connect with me:</h3>
 
-<div align="center">[![GitHub](icons/github.png)](https://github.com/galkepler)
-[![LinkedIn](icons/linkedin.png)](https://linkedin.com/in/galkepler)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/galkepler)
-[![Twitter](icons/twitter.png)](https://twitter.com/galkepler)
+<div align="center">
+ <a href="https://github.com/galkepler" target="_blank"><img src="icons/github.png" width="32" height="32" /></a>
+<!-- [![GitHub](icons/github.png)](https://github.com/galkepler) -->
+ <a href="https://linkedin.com/in/galkepler" target="_blank"><img src="icons/linkedin.png" width="32" height="32" /></a>
+<!-- [![LinkedIn](icons/linkedin.png)](https://linkedin.com/in/galkepler) -->
+ <a href="https://www.instagram.com/galkepler" target="_blank"><img src="icons/instagram.png" width="32" height="32" /></a>
+<!-- [![Instagram](icons/instagram.png)](https://www.instagram.com/galkepler) -->
+ <a href="https://twitter.com/galkepler" target="_blank"><img src="icons/twitter.png" width="32" height="32" /></a>
+<!-- [![Twitter](icons/twitter.png)](https://twitter.com/galkepler) -->
 <a href="https://fb.com/galkepler" target="_blank"><img src="icons/facebook.png" width="32" height="32" /></a>
 <a href="mailto:galkepler@gmail.com" target="_blank"><img src="icons/gmail.png" width="32" height="32" /></a></p>
  
