@@ -10,6 +10,8 @@
 
 <h3 align="center">Connect with me:</h3>
 
+<div align="center"><a href="https://github.com/galkepler" target="_blank"> <img src="icons/github.png" alt="GitHub" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="icons/ubuntu.png" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="icons/matlab.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="icons/python.png" alt="python" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="icons/vscode.png" alt="python" width="40" height="40"/> </a> </p>
+
 [![GitHub](icons/github.png)](https://github.com/galkepler)
 [![LinkedIn](icons/linkedin.png)](https://linkedin.com/in/galkepler)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/galkepler)
